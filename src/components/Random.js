@@ -46,7 +46,7 @@ export default function Random(){
         }
 
         <button onClick={clickHandler}
-        className="w-9/12 bg-yellow-100 text-lg py-1 rounded-lg mb-[20px]">
+        className="w-9/12 bg-yellow-100 text-lg py-1 rounded-lg mb-[20px] shadow-lg">
         Genrate
         </button>
     </div>

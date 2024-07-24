@@ -58,7 +58,7 @@ export default function Tag(){
        value={tag}/>
 
         <button onClick={clickHandler}
-        className="w-10/12 bg-blue-100 text-lg py-1 rounded-lg mb-[20px] text-center"
+        className="w-10/12 bg-yellow-300 text-lg py-1 rounded-lg mb-[20px] text-center shadow-lg"
         >
         Genrate
         </button>
