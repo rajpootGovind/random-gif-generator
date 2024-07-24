@@ -50,6 +50,7 @@ export default function Tag(){
         }
      
        <input 
+       placeholder="Search Gif Type"
        className="w-10/12  py-1 rounded-lg mb-[3px] text-center"
        onChange={(event) => {
         setTag(event.target.value)
